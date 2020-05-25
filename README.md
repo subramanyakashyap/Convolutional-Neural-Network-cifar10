@@ -2,4 +2,3 @@
 This project uses CNN for classifying image using popular image dataset called as cifar10
 
 Prerequisutes:
-This ReadMe file is incomplete!
